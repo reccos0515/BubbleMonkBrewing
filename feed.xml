@@ -8,7 +8,7 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for brew in site.brews limit:10 %}
+    {% for brew in site.posts limit:10 %}
       <item>
         <title>{{ brew.title | xml_escape }}</title>
         <description>{{ brew.content | xml_escape }}</description>
