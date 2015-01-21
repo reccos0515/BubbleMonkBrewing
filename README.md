@@ -72,7 +72,7 @@ Edit `/_posts/2014-12-5-oatmeal-stout.md` to replace the default content and log
 
 ✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and publicly log your homebrews  
 ✓ Fully responsive and mobile optimized base theme (**[Live Demo](https://benjholla.github.io/BrewLog/)**)  
-✓ Customized homebrewing theme (with version control!)
+✓ Customized homebrewing theme (with version control!)  
 ✓ Sass/Coffeescript support using Jekyll 2.0  
 ✓ Free hosting on your GitHub Pages user site  
 ✓ Markdown blogging  
@@ -80,8 +80,8 @@ Edit `/_posts/2014-12-5-oatmeal-stout.md` to replace the default content and log
 ✓ Disqus commenting  
 ✓ Google Analytics integration  
 ✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar
-✓ More time to brew/code other things...
+✓ 3 http requests, including your avatar  
+✓ More time to brew/code other things...  
 
 ✘ No installing dependencies  
 ✘ No need to set up local development  
