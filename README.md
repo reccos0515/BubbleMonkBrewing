@@ -13,9 +13,9 @@
 - If you're on Windows, this will make setting up Jekyll a lot easier
 - It's easy to try out, you can just delete your forked repository if you don't like it
 
-In a few minutes you'll be set up with a minimal, responsive homebrew log like the one below giving you more time to spend on homebrewing or coding or whatever.
+In a few minutes you'll be set up with a minimal, responsive homebrew log giving you more time to spend on homebrewing or coding or whatever.
 
-![BrewLog Screenshot](/images/brewlog-screenshot.png "BrewLog Screenshot")
+If your not sold already, checkout a **[Live Demo](https://benjholla.github.io/BrewLog/)**.
 
 ## Quick Start
 BrewLog can be deployed as a Github Project page (`your_github_username_or_organization_name.github.io/BrewLog`) or as your User or Organization page (`your_github_username_or_organization_name.github.io`).  To deploy as a Project page follow Step 1A.  To deploy as a User or Organization page follow step 1B.
