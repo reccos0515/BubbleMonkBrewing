@@ -3,7 +3,7 @@ layout: brew
 title: Oatmeal Stout
 ---
 
-I brewed a stout! :thumbsup:
+I brewed a stout! :point_down:
 
 ![Stout](https://raw.githubusercontent.com/benjholla/benjholla.github.io/master/images/brews/oatmeal-stout.png)
 
