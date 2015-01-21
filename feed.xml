@@ -8,13 +8,13 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    {% for brew in site.brews limit:10 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <title>{{ brew.title | xml_escape }}</title>
+        <description>{{ brew.content | xml_escape }}</description>
+        <pubDate>{{ brew.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}{{ brew.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ brew.url }}</guid>
       </item>
     {% endfor %}
   </channel>

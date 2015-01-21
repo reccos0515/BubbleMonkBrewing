@@ -10,7 +10,7 @@
 - If you're on Windows, this will make setting up Jekyll a lot easier
 - It's easy to try out, you can just delete your forked repository if you don't like it
 
-In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
+In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog brews!
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
@@ -38,13 +38,13 @@ Making a change to _config.yml (or any file in your repository) will force GitHu
 
 ![_config.yml](/images/config.png "_config.yml")
   
-### Step 3) Publish your first blog post
+### Step 3) Publish your first blog brew
 
-Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+Edit `/_brews/2014-3-3-Hello-World.md` to publish your first blog brew. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-![First Post](/images/first-post.png "First Post")
+![First Post](/images/first-brew.png "First Post")
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+> You can add additional brews in the browser on GitHub.com too! Just hit the + icon in `/_brews/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog brew and make sure the brew's filename is in this format: year-month-day-title.md
 
 ## Local Development
 
@@ -68,7 +68,7 @@ It covers:
 
 ## Jekyll Now Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and brew to your blog  
 ✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
 ✓ Sass/Coffeescript support using Jekyll 2.0  
 ✓ Free hosting on your GitHub Pages user site  

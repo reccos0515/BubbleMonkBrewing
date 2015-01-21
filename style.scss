@@ -241,17 +241,17 @@ nav {
 // .main
 //
 
-.posts > .post {
+.brews > .brew {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
+.brews > .brew:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.post {
+.brew {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
