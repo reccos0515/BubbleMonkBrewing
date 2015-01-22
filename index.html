@@ -10,7 +10,7 @@ layout: default
 
       <div class="entry">
         {{ brew.content | truncatewords:25}}
-		{% if page.OG %}{% if page.FG %}<pre class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25">Estimated ABV: {{ page.OG | minus:page.FG | times:131.25 }} &#37;</pre>{% endif %}{% endif %}
+		{% if brew.OG %}{% if brew.FG %}<pre class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25">Estimated ABV: {{ page.OG | minus:page.FG | times:131.25 }} &#37;</pre>{% endif %}{% endif %}
         <div class="date">Brewed on {{ brew.date | date: "%B %e, %Y" }}</div>
       </div>
       
