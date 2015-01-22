@@ -15,7 +15,7 @@
     <![endif]-->
 
     <link rel="shortcut icon" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
