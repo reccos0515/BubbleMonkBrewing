@@ -8,6 +8,9 @@ FG: 1.016
 IBUs: 20
 ---
 
+## Ingredients
+6 lbs. Dark LME, 8 oz. Rolled Oats, 4 oz. Chocolate Malt, 4 oz. Roasted Barley, 1 oz. Fuggle hops, Munton and Fison Ale Dry Yeast
+
 ## Recipe
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/oatmeal-stout.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/62/Oatmeal%20Stout%20Instructions.pdf).
 
