@@ -253,30 +253,11 @@ nav {
 
 .brew {
 
-//  table, th, td {
-//   border: 1px solid black;
-//   padding: 2px 4px 2px 4px;
-//  }
-
-table {
+  table {
     border-spacing: 0;
-}
-th, td {
-    border: 1px solid #000;
-    padding: 0.5em 1em;
-}
-tr:first-child th:first-child {
-    border-radius: 0.6em 0 0 0;
-}
-tr:first-child th:last-child {
-    border-radius: 0 0.6em 0 0;
-}
-tr:last-child td:first-child {
-    border-radius: 0 0 0 0.6em;
-}
-tr:last-child td:last-child {
-    border-radius: 0 0 0.6em 0;
-}
+    border: 1px solid black;
+    padding: 2px 4px 2px 4px;
+  }
 
   blockquote {
     margin: 1.8em .8em;
