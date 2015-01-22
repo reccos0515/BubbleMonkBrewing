@@ -5,7 +5,7 @@ OG: 1.053
 FG: 1.016
 IBUs: 20
 volume: 5 gallons
-intermediate-gravity-readings: Secondary 1.022
+intermediate-gravity-readings: 1.022 (Secondary)
 ---
 
 ![Stout](https://raw.githubusercontent.com/benjholla/benjholla.github.io/master/images/brews/oatmeal-stout.png)
