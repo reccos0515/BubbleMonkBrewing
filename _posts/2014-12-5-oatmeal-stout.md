@@ -1,6 +1,10 @@
 ---
 layout: brew
 title: My First Brew
+OG: 1.053
+FG: 1.016
+IBUs: 20
+intermediate-gravity-readings: Secondary 1.022
 ---
 
 I brewed a stout! :thumbsup:
