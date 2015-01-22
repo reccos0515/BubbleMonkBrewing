@@ -8,8 +8,6 @@ volume: 5 gallons
 intermediate-gravity-readings: Secondary 1.022
 ---
 
-I brewed a stout! :thumbsup:
-
 ![Stout](https://raw.githubusercontent.com/benjholla/benjholla.github.io/master/images/brews/oatmeal-stout.png)
 
 ### Notes

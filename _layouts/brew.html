@@ -7,9 +7,10 @@ layout: default
 
   <div class="brew-details">
     <b>Brew Details</b>
-    <pre>  OG: {{ page.OG }}</pre>
-    <pre>  FG: {{ page.FG }}</pre>
-    <pre>  Estimated ABV: {{ page.OG | minus:page.FG | times:131.25 }} %</pre>
+    <pre>Original Gravity Reading (OG): {{ page.OG }}</pre>
+    <pre>Intermediate Gravity Readings: {{ page.intermediate-gravity-readings }}</pre>
+    <pre>Final Gravity Readings (FG): {{ page.FG }}</pre>
+    <pre>Estimated ABV: {{ page.OG | minus:page.FG | times:131.25 }} %</pre>
   </div>
 
   <div class="entry">
