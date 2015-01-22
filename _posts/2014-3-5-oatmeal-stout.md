@@ -11,8 +11,8 @@ IBUs: 20
 ## Recipe
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/oatmeal-stout.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/62/Oatmeal%20Stout%20Instructions.pdf).
 
-### Brew Notes
+## Brew Notes
 Followed the recipe pretty much to the letter. Steeped grains for about 20 minutes.  Transferred to secondary fermentation after about 2 weeks.  Bottled a few weeks later when I felt like it.
 
-### Tasting Notes
+## Tasting Notes
 Good head, full bodied.  More bite than as I was hoping for, but not bad.
