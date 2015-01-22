@@ -71,4 +71,7 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - LICENSE
+    - CREDITS
     - README.md
+    - .DS_Store
+    - Thumbs.db
