@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: Imperial Nut Brown
+title: Cranberry Ale
 yield: 5 gallons
 OG: 1.060
 intermediate-gravity-readings: 1.022 (4 days), 1.020 (13 days)
