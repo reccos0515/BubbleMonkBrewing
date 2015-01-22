@@ -255,6 +255,31 @@ nav {
 
   table, th, td {
    border: 1px solid black;
+   padding: 2px 4px 2px 4px;
+
+   tr:last-child td:last-child {
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px;
+   	border-bottom-right-radius:5px;
+   }
+
+tr:first-child td:first-child {
+	-moz-border-radius-topleft:5px;
+	-webkit-border-top-left-radius:5px;
+	border-top-left-radius:5px;
+}
+
+tr:first-child td:last-child {
+	-moz-border-radius-topright:5px;
+	-webkit-border-top-right-radius:5px;
+	border-top-right-radius:5px;
+}
+
+tr:last-child td:first-child {
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;
+}
   }
 
   blockquote {
@@ -288,16 +313,20 @@ footer {
   text-align: center;
 }
 
+.hover-tooltip {
+  color:#808080;
+}
+
 // hover over tooltip styling
 .tooltip {
-    display:none;
-    position:absolute;
-    border:1px solid #333;
-    background-color:#161616;
-    border-radius:5px;
-    padding:10px;
-    color:#fff;
-    font-size:12px Arial;
+  display:none;
+  position:absolute;
+  border:1px solid #333;
+  background-color:#161616;
+  border-radius:5px;
+  padding:10px;
+  color:#fff;
+  font-size:12px Arial;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
