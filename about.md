@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I made this site as a way to publicly log my homebrew measurements and other notes (with version control!).
 
-### More Information
+### Get your own BrewLog
 
-A place to include any other types of information that you'd like to include about yourself.
+If you like this project, you can fork and deploy your own BrewLog on Github for free in just minutes.  Check it out at [https://github.com/benjholla/BrewLog](https://github.com/benjholla/BrewLog).
