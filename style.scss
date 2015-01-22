@@ -252,6 +252,11 @@ nav {
 }
 
 .brew {
+
+  table, th, td {
+   border: 1px solid black;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
