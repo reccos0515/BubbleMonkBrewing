@@ -1,9 +1,10 @@
 ---
 layout: brew
-title: My First Brew
+title: Oatmeal Stout
 OG: 1.053
 FG: 1.016
 IBUs: 20
+volume: 5 gallons
 intermediate-gravity-readings: Secondary 1.022
 ---
 
