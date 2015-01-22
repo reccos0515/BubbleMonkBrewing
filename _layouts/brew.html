@@ -9,7 +9,7 @@ layout: default
     <b>Brew Details</b>
     <pre>  OG: {{ page.OG }}</pre>
     <pre>  FG: {{ page.FG }}</pre>
-    <pre>  Estimated ABV: {{ {{ page.OG | minus:page.FG }} | times:131.25 }} %</pre>
+    <pre>  Estimated ABV: {{ page.OG | minus:page.FG | times:131.25 }} %</pre>
   </div>
 
   <div class="entry">
