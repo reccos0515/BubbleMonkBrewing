@@ -10,7 +10,7 @@ layout: default
 
       <div class="entry">
         {{ brew.content | truncatewords:25}}
-        <div class="date">Brewed on {{ page.date | date: "%B %e, %Y" }}</div>
+        <div class="date">Brewed on {{ brew.date | date: "%B %e, %Y" }}</div>
       </div>
       
       <a href="{{ site.baseurl }}{{ brew.url }}" class="read-more">Read More</a>
