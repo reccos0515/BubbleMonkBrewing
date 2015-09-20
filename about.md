@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site was made as a way to publicly log homebrew measurements and other notes (with version control!).
-
-### Deploy your own BrewLog
-
-If you like this project, you can fork and deploy your own BrewLog on Github for free in just minutes.  Check it out at [https://github.com/benjholla/BrewLog](https://github.com/benjholla/BrewLog).
+This page is for you, the brewmaster.  Go ahead and edit it to add some details about yourself.
 
 ### Recommended Equipment
 
