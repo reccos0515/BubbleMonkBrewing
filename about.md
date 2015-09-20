@@ -6,6 +6,12 @@ permalink: /about/
 
 This site was made as a way to publicly log homebrew measurements and other notes (with version control!).
 
+### Deploy your own BrewLog
+
+If you like this project, you can fork and deploy your own BrewLog on Github for free in just minutes.  Check it out at [https://github.com/benjholla/BrewLog](https://github.com/benjholla/BrewLog).
+
+### Recommended Equipment
+
 If you are just getting started homebrewing and want to start small consider the following equipment.
 
 - [2-Gallon Plastic Fermenter](https://www.midwestsupplies.com/2-gallon-plastic-fermenter-w-drilled-lid.html)
@@ -23,7 +29,3 @@ If you are just getting started homebrewing and want to start small consider the
 - [Chemical Resistant Spray Sanitizer Bottle](https://www.midwestsupplies.com/chemical-resistant-spray-sanitizer-bottle-16oz.html)
 - [Red Baron Bottle Capper](http://www.amazon.com/Ferrari-Red-Baron-Bottle-Capper/dp/B001D6KGTK)
 - [Crown Beer Bottle Caps](http://www.midwestsupplies.com/fermenter-s-favorites-120-count-crown-color-beer-bottle-caps.html)
-
-### Deploy your own BrewLog
-
-If you like this project, you can fork and deploy your own BrewLog on Github for free in just minutes.  Check it out at [https://github.com/benjholla/BrewLog](https://github.com/benjholla/BrewLog).
