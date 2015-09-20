@@ -12,8 +12,8 @@ layout: default
         {% if page.OG %}<tr><td>Original Gravity (OG)</td><td>{{ page.OG }}</td></tr>{% endif %}
         {% if page.FG %}<tr><td>Final Gravity (FG)</td><td>{{ page.FG }}</td></tr>{% endif %}
         {% unless page.fermenting %}{% if page.OG %}{% if page.FG %}<tr><td class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25">Estimated ABV*</td><td>{{ page.OG | minus:page.FG | times:131.25 }} &#37;</td></tr>{% endif %}{% endif %}{% endunless %}
-        {% if page.bottle-date %}<tr><td>Bottle Date</td><td>{{ page.bottle-date | date: "%B %e, %Y" }}</td></tr>{% endif %}
-        {% if page.keg-date %}<tr><td>Bottle Date</td><td>{{ page.keg-date | date: "%B %e, %Y" }}</td></tr>{% endif %}
+        {% unless page.fermenting %}{% if page.bottle-date %}<tr><td>Bottle Date</td><td>{{ page.bottle-date | date: "%B %e, %Y" }}</td></tr>{% endif %}{% endunless %}
+        {% unless page.fermenting %}{% if page.keg-date %}<tr><td>Bottle Date</td><td>{{ page.keg-date | date: "%B %e, %Y" }}</td></tr>{% endif %}{% endunless %}
         {% if page.IBUs %}<tr><td>IBUs</td><td>{{ page.IBUs }}</td></tr>{% endif %}
     </table>
   </div>
