@@ -3,9 +3,9 @@ layout: brew
 title: Oatmeal Stout
 yield: 5 gallons
 OG: 1.053
-intermediate-gravity-readings: 1.022 (Secondary)
 FG: 1.016
 IBUs: 20
+fermenting: false
 ---
 
 ## Ingredients
