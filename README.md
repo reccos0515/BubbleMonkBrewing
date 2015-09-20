@@ -30,7 +30,7 @@ First, if you don't like the name `BrewLog` as your base URL then rename your re
 
 Next delete the `gh-pages` branch.
 
-Enter `BrewLog` (or whatever you entered for the base URL) in the `baseurl` field of the _config.yml file.
+Enter `"/BrewLog"` (or whatever you entered for the base URL) in the `baseurl` field of the _config.yml file.
 
 Once you've committed the change to _config.yml, create the `gh-pages` branch again fresh off of the latest master!
 
