@@ -6,6 +6,7 @@ OG: 1.053
 FG: 1.016
 IBUs: 20
 fermenting: false
+bottle-date: 4-9-2014
 ---
 
 ## Ingredients
