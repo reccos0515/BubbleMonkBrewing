@@ -29,3 +29,6 @@ bottle-date: 7-11-2024
 
 ## Tasting Notes
 Loved the mouthfeel, very glad this was my first attempted recipe as it has absolutely set a high bar for me to chase.
+
+## Attempts
+ - 7/11/2024 - First Attempt: <a href="{{ site.baseurl }}/Blackberry-Attempts/Attempt-1">Link</a>
