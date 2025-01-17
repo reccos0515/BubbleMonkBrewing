@@ -1,27 +1,44 @@
 ---
 layout: page
-title: About
+title: Resources
 permalink: /about/
 ---
 
-This page is for you, the brewmaster.  Go ahead and edit it to add some details about yourself.
+A collection of what I use, both physical and software. Also a couple processes
 
-### Recommended Equipment
+### Stabilizing for 1 gallon
+ 1. Use 1 crushed [Campden Tablet](https://www.amazon.com/Campden-Tablets-sodium-metabisulfite-100/dp/B0064H0KC6) and gently stir, wait 24 hrs
+ 2. Add 1/2 tsp [Potassium Sorbate](https://www.amazon.com/North-Mountain-Supply-Potassium-Stabilizer/dp/B0BGQLW5NP) stir gently, wait 24 hours
+ 3. Your Mead is now stabilized
 
-If you are just getting started homebrewing and want to start small consider the following equipment.
+### Backsweetening
+ - Backsweetening will basically always be a matter of personal taste, use a turkey baster and a shot glass to take samples while sweetening. I personally go at 1/2 cup of honey per addition when using a gallon sized fermenter.
 
-- [2-Gallon Plastic Fermenter](https://www.midwestsupplies.com/2-gallon-plastic-fermenter-w-drilled-lid.html)
-- [Airlock S Bubble](https://www.midwestsupplies.com/airlock-s-bubble-type.html)
-- [3 Feet of 3/8" Siphon Hose Tubing](https://www.midwestsupplies.com/tubing-2.html)
-- [1-Gallon Glass Jug](https://www.midwestsupplies.com/1-gallon-glass-jug.html)
-- [#6 Drilled Rubber Stopper](http://www.midwestsupplies.com/rubber-stoppers-drilled.html) or [38mm Screw Cap with Hole](https://www.midwestsupplies.com/38mm-screw-cap-with-hole.html)
-- [Mini Auto-Siphon](https://www.midwestsupplies.com/mini-auto-siphon.html)
-- [Plastic Spring Tip Bottle Filler](http://www.midwestsupplies.com/plastic-spring-tip-bottle-filler.html)
-- [Triplescale Hydrometer](http://www.midwestsupplies.com/hydrometer-triplescale.html)
-- [Hydrometer Test Jar](https://www.midwestsupplies.com/fermenter-s-favorites-economy-hydrometer-test-jar.html)
-- [Dial Thermometer](http://www.midwestsupplies.com/dial-thermometer.html)
-- [Stainless Steel Spoon](https://www.midwestsupplies.com/13-stainless-steel-spoon.html)
-- [Star San Sanitizer](https://www.midwestsupplies.com/star-san.html)
-- [Chemical Resistant Spray Sanitizer Bottle](https://www.midwestsupplies.com/chemical-resistant-spray-sanitizer-bottle-16oz.html)
-- [Red Baron Bottle Capper](http://www.amazon.com/Ferrari-Red-Baron-Bottle-Capper/dp/B001D6KGTK)
-- [Crown Beer Bottle Caps](http://www.midwestsupplies.com/fermenter-s-favorites-120-count-crown-color-beer-bottle-caps.html)
+1. Add 1/2 cup honey to pyrex measuring cup
+2. Add 1/4 to 1/2 cup boiling water to the measuring cup
+3. Gently stir until they're combined
+4. Add the mixture to the fermenting vessel and stir to combine
+5. Taste, asses and repeat if necessary
+
+### Yeast
+ - Yeast can spoil, purchase in a 5 pack at most imo, or find a local supply.
+ - [Lalvin K1-V1116](https://www.amazon.com/Lalvin-K1-V1116-Wine-Yeast-Pack/dp/B0BG3FTF14)
+ - [Lalvin 71B](https://www.amazon.com/Lalvin-Wine-Yeast-Pack-Saccharomyces/dp/B0BG3HG52J)
+
+### Actual Physical Equipment I have
+ - Fermenting Vessel 1.32 Gallon - [Link](https://www.amazon.com/gp/product/B0BSNRBWQH)
+ - Fermaid O Yeast Nutrient - [Link](https://www.amazon.com/North-Mountain-Supply-Fermaid-Nutrient/dp/B0CFYQC5JG)
+ - Hydrometer - [Link](https://www.amazon.com/North-Mountain-Supply-NMSTS-H-Hydrometer/dp/B07DMJRYNK)
+ - Graduated Cylinder - [Link](https://www.amazon.com/Measuring-Cylinder-100ml-Polypropylene-Autoclavable/dp/B00AITZUMQ)
+ - Bottles + Corks - [Link](https://www.amazon.com/North-Mountain-Supply-Bordeaux-Flat-Bottomed/dp/B07N4QFT1F)
+ - Star San - [Link](https://www.amazon.com/gp/product/B0064O7YFA)
+ - Go Ferm - [Link](https://www.amazon.com/dp/B0CFYNZTQB)
+
+Use Spring water for brews not tap, better minerals/no bacteria
+
+### Stuff i haven't used yet
+ - [Tartaric Acid](https://www.amazon.com/Tartaric-Acid-Food-Grade-Distributors/dp/B0CFDGBRC5)
+ - [Malic Acid](https://www.amazon.com/Malic-Acid-Food-Grade-Distributors/dp/B0CFDGY3D3)
+ - [French Oak Cubes](https://www.amazon.com/North-Mountain-Supply-French-Medium/dp/B07PDNGDHG)
+ - [Spring loaded bottle filler](https://www.amazon.com/Spring-Loaded-Beer-Bottle-Filler/dp/B000E66A4U)
+ - [Bulk Honey](https://glorybee.com/honey/bulk-honey)
