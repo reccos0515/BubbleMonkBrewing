@@ -20,34 +20,33 @@ permalink: /recipes/
 
 ### Name of the Wind Metheglin
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reddit Recipe - [Link](https://www.reddit.com/r/KingkillerChronicle/comments/17ecx79/metheglin_recipe_the_name_of_the_wind/?rdt=36697)
+ - Reddit Recipe - [Link](https://www.reddit.com/r/KingkillerChronicle/comments/17ecx79/metheglin_recipe_the_name_of_the_wind/?rdt=36697)
+	 - 3 1/2 lbs Wildflower Honey
+	 - Apple juice (roughly 400ml used)
+	 - Grape juice (roughly 500ml used)
+	 - 6 cups of Chai Tea
+	 
+	 - 1-2 apples (sliced thin, sprinkled with cinnamon, and toasted)
+	 - 1-2 pears (again, thinly sliced)
+	 - 2 cloves
+	 - 3 cinnamon sticks (well broken)
+	 - 1/4 tsp ground cinnamon
+	 - 1/2 tsp cardamom
+			 
+	 - 1 tsp Yeast Nutrients
+	 - 1/4-1/2 Wine Tanin
+	 - Lalvin EC-1118 Wine Yeast
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 3 1/2 lbs Wildflower Honey <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Apple juice (roughly 400ml used) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Grape juice (roughly 500ml used) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 6 cups of Chai Tea <br />
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1-2 apples (sliced thin, sprinkled with cinnamon, and toasted) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1-2 pears (again, thinly sliced) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 2 cloves <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 3 cinnamon sticks (well broken) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1/4 tsp ground cinnamon <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1/2 tsp cardamom <br />
-		 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 tsp Yeast Nutrients <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1/4-1/2 Wine Tanin <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lalvin EC-1118 Wine Yeast <br />
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Storm The Castle - [Link](https://www.stormthecastle.com/mead/the-name-of-the-wind-metheglin.htm)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 3 pounds of clover honey <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 25 raisins <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 2 pears  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 3/4ths of an apple <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 8 grapes cut in half <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 clove <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 pinch of cardamom <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 cinnamon stick <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Natural spring water
+ - Storm The Castle - [Link](https://www.stormthecastle.com/mead/the-name-of-the-wind-metheglin.htm)
+	 - 3 pounds of clover honey
+	 - 25 raisins
+	 - 2 pears
+	 - 3/4ths of an apple
+	 - 8 grapes cut in half
+	 - 1 clove
+	 - 1 pinch of cardamom
+	 - 1 cinnamon stick
+	 - Natural spring water
 
 ****
 
