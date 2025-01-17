@@ -5,6 +5,7 @@ permalink: /recipes/
 ---
 #### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones.
 ****
+
 ### Blueberry Pancake Mead - [Link](https://acts2815.wordpress.com/2014/02/02/blueberry-pancake-mead/)
  - 2lbs of honey
  - 2 cups of blueberries
@@ -15,6 +16,7 @@ permalink: /recipes/
  2. Add the blueberry/syrup mixture, honey and water into the jug.
  3. Pitch yeast according to the package and add
 ****
+
 ### Name of the Wind Metheglin
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reddit Recipe - [Link](https://www.reddit.com/r/KingkillerChronicle/comments/17ecx79/metheglin_recipe_the_name_of_the_wind/?rdt=36697)
