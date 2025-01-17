@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: BlackBerry Mead Attempt 1
+title: BlackBerry Mead Attempt 2
 yield: 1 gallons
 OG: 1.132
 FG: 1.019
