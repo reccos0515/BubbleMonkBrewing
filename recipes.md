@@ -48,6 +48,7 @@ permalink: /recipes/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 cinnamon stick <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Natural spring water
 ****
+
 ### The Mindbender Mead - [Link](https://blog.patrickrothfuss.com/?s=metheglin&searchsubmit=Search)
  - In a **3 gallon Carboy**
  - 4.5 lbs Wildflower honey
@@ -69,6 +70,7 @@ permalink: /recipes/
  - 1 lean pinch wormwood
  - +1 gallon distilled water
 ****
+
 ### Cyser - [Link](https://blog.mountainroseherbs.com/how-to-make-spiced-cyser-apple-mead)
  Makes 5 Gallons
  - 6 lbs. raw, local honey (roughly 2 quarts)
@@ -84,6 +86,7 @@ permalink: /recipes/
  - 1 package white wine yeast, such as Lalvin D47
  - Fermaid O
 ****
+
 ### Bochet (Black Mead) - [Link](https://www.tastinghistory.com/recipes/bochet?rq=bochet#recipe)
  - 1 pint (675 g) honey
  - 2 cups distilled water
@@ -102,6 +105,7 @@ permalink: /recipes/
  5. Pitch and add yeast to the mixture.
  6. Lightly grind spices and add to mixture with a brew bag.
 ****
+
 ### Piña Colada
   Untested, kinda developing my own recipe here (AH)
  - Primary
