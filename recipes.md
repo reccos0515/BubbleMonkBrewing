@@ -4,7 +4,7 @@ title: Recipes
 permalink: /recipes/
 ---
 
-# This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones.
+#### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones.
 ****
 ### Blueberry Pancake Mead - [Link](https://acts2815.wordpress.com/2014/02/02/blueberry-pancake-mead/)
  - 2lbs of honey
@@ -19,7 +19,7 @@ permalink: /recipes/
 
 ### Name of the Wind Metheglin
 
-## Reddit Recipe - [Link](https://www.reddit.com/r/KingkillerChronicle/comments/17ecx79/metheglin_recipe_the_name_of_the_wind/?rdt=36697)
+#### Reddit Recipe - [Link](https://www.reddit.com/r/KingkillerChronicle/comments/17ecx79/metheglin_recipe_the_name_of_the_wind/?rdt=36697)
 
  - 3 1/2 lbs Wildflower Honey
  - Apple juice (roughly 400ml used)
@@ -37,7 +37,7 @@ permalink: /recipes/
  - 1/4-1/2 Wine Tanin
  - Lalvin EC-1118 Wine Yeast
 
-## Storm The Castle - [Link](https://www.stormthecastle.com/mead/the-name-of-the-wind-metheglin.htm)
+#### Storm The Castle - [Link](https://www.stormthecastle.com/mead/the-name-of-the-wind-metheglin.htm)
  - 3 pounds of clover honey
  - 25 raisins
  - 2 pears 
