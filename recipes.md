@@ -25,14 +25,14 @@ permalink: /recipes/
 	 - Apple juice (roughly 400ml used)
 	 - Grape juice (roughly 500ml used)
 	 - 6 cups of Chai Tea
-	 
+
 	 - 1-2 apples (sliced thin, sprinkled with cinnamon, and toasted)
 	 - 1-2 pears (again, thinly sliced)
 	 - 2 cloves
 	 - 3 cinnamon sticks (well broken)
 	 - 1/4 tsp ground cinnamon
 	 - 1/2 tsp cardamom
-			 
+
 	 - 1 tsp Yeast Nutrients
 	 - 1/4-1/2 Wine Tanin
 	 - Lalvin EC-1118 Wine Yeast
