@@ -15,6 +15,7 @@ permalink: /recipes/
  1. Bring the maple syrup and blueberries to a boil, then reduce to a simmer for 10 minutes.
  2. Add the blueberry/syrup mixture, honey and water into the jug.
  3. Pitch yeast according to the package and add
+
 ****
 
 ### Name of the Wind Metheglin
@@ -47,6 +48,7 @@ permalink: /recipes/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 pinch of cardamom <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1 cinnamon stick <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Natural spring water
+
 ****
 
 ### The Mindbender Mead - [Link](https://blog.patrickrothfuss.com/?s=metheglin&searchsubmit=Search)
@@ -69,6 +71,7 @@ permalink: /recipes/
  - 1/2 tbs fenugreek (whole)
  - 1 lean pinch wormwood
  - +1 gallon distilled water
+
 ****
 
 ### Cyser - [Link](https://blog.mountainroseherbs.com/how-to-make-spiced-cyser-apple-mead)
@@ -85,6 +88,7 @@ permalink: /recipes/
  - 1/2 tsp. organic black peppercorns
  - 1 package white wine yeast, such as Lalvin D47
  - Fermaid O
+
 ****
 
 ### Bochet (Black Mead) - [Link](https://www.tastinghistory.com/recipes/bochet?rq=bochet#recipe)
@@ -104,6 +108,7 @@ permalink: /recipes/
  4. Allow the mixture to cool to around 120<sup>0</sup>F. Strain the bochet and pour it into the sterile container you’re going to ferment it in.
  5. Pitch and add yeast to the mixture.
  6. Lightly grind spices and add to mixture with a brew bag.
+
 ****
 
 ### Piña Colada
