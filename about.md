@@ -11,6 +11,8 @@ A collection of what I use, both physical and software. Also a couple processes
  2. Add 1/2 tsp [Potassium Sorbate](https://www.amazon.com/North-Mountain-Supply-Potassium-Stabilizer/dp/B0BGQLW5NP) stir gently, wait 24 hours
  3. Your Mead is now stabilized
 
+****
+
 ### Backsweetening
  - Backsweetening will basically always be a matter of personal taste, use a turkey baster and a shot glass to take samples while sweetening. I personally go at 1/2 cup of honey per addition when using a gallon sized fermenter.
 
@@ -19,6 +21,8 @@ A collection of what I use, both physical and software. Also a couple processes
 3. Gently stir until they're combined
 4. Add the mixture to the fermenting vessel and stir to combine
 5. Taste, asses and repeat if necessary
+
+****
 
 ### Software Resources
  - Tosna Calculator - [Link](https://www.meadmaderight.com/tosna-calculator) - Used for calculating how much yeast nutrient to add and when to add
@@ -31,10 +35,14 @@ A collection of what I use, both physical and software. Also a couple processes
  - A<sub>V</sub> = Original Alcohol Volume (oz) = $O_V*(O_A/100)$
  - F<sub>ABV</sub> = Final ABV = $(A_V/(O_V+F_V))*100$
 
+****
+
 ### Yeast
  - Yeast can spoil, purchase in a 5 pack at most imo, or find a local supply.
  - [Lalvin K1-V1116](https://www.amazon.com/Lalvin-K1-V1116-Wine-Yeast-Pack/dp/B0BG3FTF14)
  - [Lalvin 71B](https://www.amazon.com/Lalvin-Wine-Yeast-Pack-Saccharomyces/dp/B0BG3HG52J)
+
+****
 
 ### Actual Physical Equipment I have
  - Fermenting Vessel 1.32 Gallon - [Link](https://www.amazon.com/gp/product/B0BSNRBWQH)
@@ -47,6 +55,8 @@ A collection of what I use, both physical and software. Also a couple processes
  - Kitchen scale - [Link](https://www.amazon.com/gp/product/B09R8ZKDGP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) is a life saver, but for nutrient additions you'll need one that's more precise (down to tenth of a gram I think, ex [this](https://www.amazon.com/Weigh-Gram-Digital-Jewelry-Kitchen/dp/B06Y61YW7S)
 
 Use Spring water for brews not tap, better minerals/no bacteria
+
+****
 
 ### Stuff i haven't used yet
  - [Tartaric Acid](https://www.amazon.com/Tartaric-Acid-Food-Grade-Distributors/dp/B0CFDGBRC5)
