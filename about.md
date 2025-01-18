@@ -4,7 +4,8 @@ title: Resources
 permalink: /about/
 ---
 
-A collection of what I use, both physical and software. Also a couple processes
+#### A collection of what I use, both physical and software. Also a couple processes
+****
 
 ### Stabilizing for 1 gallon
  1. Use 1 crushed [Campden Tablet](https://www.amazon.com/Campden-Tablets-sodium-metabisulfite-100/dp/B0064H0KC6) and gently stir, wait 24 hrs
