@@ -8,8 +8,6 @@ fermenting: false
 bottle-date: 1-19-2025
 ---
 
-For a ~1 gallon fermenting vessel
-
 ## Initial Recipe
 (scaled down from 2 gallons)
  - 3 lbs Honey
