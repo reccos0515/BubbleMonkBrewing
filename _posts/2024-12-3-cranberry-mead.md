@@ -33,4 +33,4 @@ For a ~1 gallon fermenting vessel
 Use the Tosna calculator for further nutrient additions
 
 ## Batches
-12/3/24 - 
+ - 12/3/24 - First Attempt: <a href="{{ site.baseurl }}/Cranberry-Attempts/Attempt-1">Link</a>
