@@ -1,3 +1,13 @@
+---
+layout: brew
+title: Cranberry Mead Attempt 1
+yield: 1 gallons
+OG: 1.056
+FG: 0.998
+fermenting: false
+bottle-date: 12-22-2025
+---
+
 12/3/24 - Stating Gravity 1.056
 
 12/15/24 - Second Reading 0.998
