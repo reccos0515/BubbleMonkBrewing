@@ -8,7 +8,7 @@ fermenting: false
 bottle-date: 1-19-2025
 ---
 
-## Initial Recipe
+## Ingredients
 (scaled down from 2 gallons)
  - 3 lbs Honey
  - 1.5 lbs Peaches 
