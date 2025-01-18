@@ -24,7 +24,7 @@ That puts the potential ABV at ~12% which after sweetening would put it around ~
 
 **1/9/25** - the sanitizing liquid in the airlock evaporated a bit so i put in more filtered water.
 
-**1/11/25** - fermentation has definitely slowed, only been fermenting a week so if the [[Second Attempt|blackberry second attempt]] is anything to go off of it needs another 5 to 7 days.
+**1/11/25** - fermentation has definitely slowed, only been fermenting a week so if the second attempt from the blackberry mead is anything to go off of it needs another 5 to 7 days.
 
 After looking around more online I think I'm going to need to add more tanin in future batches, since the canned peaches don't have skins, maybe just double the black tea.
 

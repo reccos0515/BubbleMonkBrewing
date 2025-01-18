@@ -29,7 +29,7 @@ bottle-date: 1-19-2025
  7. Top with spring water until there's a reasonable amount of room left for the fermentation (take initial gravity reading)
  8. Seal using a sanitizer filled airlock and set in a cool dark place
 
-Use the [[Resources|Tosna calculator]] for further nutrient additions
+Use the Tosna calculator for further nutrient additions
 
 ## Batches
  - 1/3/25 - First Attempt: <a href="{{ site.baseurl }}/Peach-Attempts/Attempt-1">Link</a>
