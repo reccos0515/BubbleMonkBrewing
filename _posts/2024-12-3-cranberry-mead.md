@@ -8,7 +8,7 @@ fermenting: false
 bottle-date: 12-22-2024
 ---
 
-## Initial Recipe
+## Ingredients
  - 1 1/2 lbs Honey (increase by 1lbs for next batch)
  - 4/5 lbs Cranberries (increase to 1 1/4 lbs for next batch)
  - 2 tbps Black Tea
