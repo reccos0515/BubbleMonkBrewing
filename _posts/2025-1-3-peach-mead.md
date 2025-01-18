@@ -1,11 +1,11 @@
 ---
 layout: brew
-title: BlackBerry Mead
+title: Peach Mead
 yield: 1 gallons
-OG: 1.132
-FG: 1.019
+OG: 1.094
+FG: 0.996
 fermenting: false
-bottle-date: 7-11-2024
+bottle-date: 1-19-2025
 ---
 
 For a ~1 gallon fermenting vessel
