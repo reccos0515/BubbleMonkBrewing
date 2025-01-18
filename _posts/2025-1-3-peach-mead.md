@@ -22,7 +22,7 @@ For a ~1 gallon fermenting vessel
  
  - 1/4 tsp vanilla extract (for use after stabilization)
 
-## Steps
+## Recipe
  1. Sanitize equipment using Star-San
  2. Add honey and ~1/4 Gallon of water to the fermenter, use bung to close the top of the fermenter and shake until combined. ~4 min
  3. Mash Peaches and add to the fermenter
