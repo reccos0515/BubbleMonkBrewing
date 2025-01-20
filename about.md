@@ -28,7 +28,7 @@ permalink: /about/
 ### Software Resources
  - Tosna Calculator - [Link](https://www.meadmaderight.com/tosna-calculator) - Used for calculating how much yeast nutrient to add and when to add
  - [ABV Calculator](https://www.brewersfriend.com/abv-calculator/) - Used for calculating the ABV after **INITIAL FERMENTATION ONLY**
-     - Initial ABV is your original gravity measurment minus your final gravity measurement multiplied by 131.25, but i'm lazy so i use the above linked site.
+     - Initial ABV is your original gravity measurment minus your final gravity measurement multiplied by 131.25, but i'm lazy so I use the above linked site.
 
 #### For Calculating the ABV after back sweetening use this formula
 <a href="{{ site.baseurl }}/images/new_abv.png">
