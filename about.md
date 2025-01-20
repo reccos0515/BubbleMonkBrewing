@@ -33,6 +33,7 @@ permalink: /about/
 <a href="{{ site.baseurl }}/images/new_abv.png">
  <img src="{{ site.baseurl }}/images/new_abv.png" alt="New ABV" style="width:379px;height:280px;">
 </a>
+
 ****
 
 ### Yeast
