@@ -30,12 +30,6 @@ permalink: /about/
  - [ABV Calculator](https://www.brewersfriend.com/abv-calculator/) - Used for calculating the ABV after **INITIAL FERMENTATION ONLY**
 
 #### For Calculating the ABV after back sweetening use this formula
- - O<sub>V</sub> = Original Volume (oz)
- - F<sub>V</sub> = Added Volume (oz)
- - O<sub>A</sub> = Original ABV (from the calculator above)
- - A<sub>V</sub> = Original Alcohol Volume (oz) = $O_V*(O_A/100)$
- - F<sub>ABV</sub> = Final ABV = $(A_V/(O_V+F_V))*100$
-
 <img src="{{ site.baseurl }}/images/new_abv.png" alt="New ABV">
 
 ****
