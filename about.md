@@ -30,8 +30,9 @@ permalink: /about/
  - [ABV Calculator](https://www.brewersfriend.com/abv-calculator/) - Used for calculating the ABV after **INITIAL FERMENTATION ONLY**
 
 #### For Calculating the ABV after back sweetening use this formula
-<img src="{{ site.baseurl }}/images/new_abv.png" alt="New ABV" style="width:379px;height:280px;">
-
+<a href="{{ site.baseurl }}/images/new_abv.png">
+ <img src="{{ site.baseurl }}/images/new_abv.png" alt="New ABV" style="width:379px;height:280px;">
+</a>
 ****
 
 ### Yeast
