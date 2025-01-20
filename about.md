@@ -36,6 +36,8 @@ permalink: /about/
  - A<sub>V</sub> = Original Alcohol Volume (oz) = $O_V*(O_A/100)$
  - F<sub>ABV</sub> = Final ABV = $(A_V/(O_V+F_V))*100$
 
+<img src="{{ site.baseurl }}/images/new_abv.png" alt="New ABV">
+
 ****
 
 ### Yeast
