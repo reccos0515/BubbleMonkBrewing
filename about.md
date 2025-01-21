@@ -51,6 +51,7 @@ permalink: /about/
  - Graduated Cylinder - [Link](https://www.amazon.com/Measuring-Cylinder-100ml-Polypropylene-Autoclavable/dp/B00AITZUMQ)
  - Bottles + Corks - [Link](https://www.amazon.com/North-Mountain-Supply-Bordeaux-Flat-Bottomed/dp/B07N4QFT1F)
  - Star San - [Link](https://www.amazon.com/gp/product/B0064O7YFA)
+ - 2.6 Gal Bucket - [Link](https://www.amazon.com/gp/product/B08KHSDF2R)
  - Go Ferm - [Link](https://www.amazon.com/dp/B0CFYNZTQB)
  - Kitchen scale - [Link](https://www.amazon.com/gp/product/B09R8ZKDGP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) is a life saver, but for nutrient additions you'll need one that's more precise (down to tenth of a gram I think, ex [this](https://www.amazon.com/Weigh-Gram-Digital-Jewelry-Kitchen/dp/B06Y61YW7S)
 
