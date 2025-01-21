@@ -5,7 +5,8 @@ yield: 1 gallons
 OG: 1.132
 FG: 1.019
 fermenting: false
-bottle-date: 7-11-2024
+brew-date: 12-21-2024
+bottle-date: 1-7-2025
 ---
 
 12/21/24 - Added an extra 1/2 lb honey changed recipe, Initial gravity 1.106

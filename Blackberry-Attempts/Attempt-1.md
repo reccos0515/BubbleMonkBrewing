@@ -5,7 +5,8 @@ yield: 1 gallons
 OG: 1.132
 FG: 1.019
 fermenting: false
-bottle-date: 7-11-2024
+brew-date: 7-11-2024
+bottle-date: 8-1-2024
 ---
 
 7/11/24 - initial gravity 1.132

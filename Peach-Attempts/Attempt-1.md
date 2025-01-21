@@ -5,6 +5,7 @@ yield: 1 gallons
 OG: 1.094
 FG: 0.996
 fermenting: false
+brew-date: 1-3-2025
 bottle-date: 1-19-2025
 ---
 

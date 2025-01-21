@@ -5,7 +5,8 @@ yield: 1 gallons
 OG: TBD
 FG: TBD
 fermenting: false
-bottle-date: 1-21-2025
+brew-date: 1-21-2025
+bottle-date: TBD
 ---
 
 **1/21/25** - Starting brew today, after i'm done spicing the peach mead.

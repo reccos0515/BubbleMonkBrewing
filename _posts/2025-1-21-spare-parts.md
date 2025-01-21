@@ -6,7 +6,7 @@ OG: TBD
 FG: TBD
 fermenting: false
 brew-date: 1-21-2025
-bottle-date: 1-21-2025
+bottle-date: TBD
 ---
 
 It's a spare parts brew!
