@@ -3,7 +3,7 @@ layout: brew
 title: Spare Parts Mead
 yield: 1 gallons
 OG: 1.090
-FG: TBD
+FG: 1.000
 fermenting: false
 brew-date: 1-21-2025
 bottle-date: TBD
