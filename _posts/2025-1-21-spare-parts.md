@@ -13,8 +13,8 @@ It's a spare parts brew!
 
 ## Ingredients
  - 2.5 lbs Wildflower Honey
- - 0.5 lbs frozen mixed berries
- - 1.5 lbs frozen peaches
+ - 0.75 lbs frozen mixed berries
+ - 1.625 lbs frozen peaches
  - 4 tbsp Black tea
  - 3 stick cinnamon
  - 2 whole cloves
