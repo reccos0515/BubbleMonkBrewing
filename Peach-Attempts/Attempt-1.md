@@ -33,3 +33,5 @@ After looking around more online I think I'm going to need to add more tanin in 
 On tasting I didn't really get much peach flavor, I've seen someone backsweeten their peach mead with [Peach Nectar Jumex](http://jumexinternational.com/peach-nectar/) and I want to try that but I might boil out some of the water to try and get it down to a syrup.
 
 **1/18/25** - Backsweetened using 2.5 cups of honey and peach nectar, going to let it clear for another 2 days before bottling, Final ABV 11.12%
+
+**1/20/25** - Bottled the brew, and seperated out ~1 bottle with 1/2 stick of cinnamon, 6 Allspice berries, and 1/8 tsp of cardamom
