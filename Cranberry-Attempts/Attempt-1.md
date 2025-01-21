@@ -6,7 +6,7 @@ OG: 1.056
 FG: 0.998
 fermenting: false
 brew-date: 12-3-2024
-bottle-date: 12-22-2025
+bottle-date: 12-22-2024
 ---
 
 12/3/24 - Stating Gravity 1.056
