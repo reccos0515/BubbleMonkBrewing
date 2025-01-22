@@ -17,9 +17,9 @@ It's a spare parts brew!
  - 1.625 lbs frozen peaches
  - 4 tbsp Black tea
  - 3 stick cinnamon
- - 2 whole cloves
- - 1 tsp cardamom
- - 5 allspice berries
+ - 4 whole cloves
+ - 1/2 tsp cardamom
+ - 6 allspice berries
  - 1 Packet K1-V1116 yeast
  - 1 tsp pectic enzyme
  - 1/2 tsp Fermaid-O Nutrient
