@@ -37,4 +37,4 @@ It's a spare parts brew!
 After Stabilization add spices to brew bag and submerge in the fermenter, remove after 3 days
 
 ## Attempts
- - 1/21/2025 - First Attempt: <a href="{{ site.baseurl }}/Spare-Parts/Attempt-1">Link</a>
+ - 1/21/2025 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Spare-Parts/Attempt-1">Link</a>

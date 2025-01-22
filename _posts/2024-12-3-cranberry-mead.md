@@ -32,4 +32,4 @@ bottle-date: 12-22-2024
 Use the Tosna calculator for further nutrient additions
 
 ## Batches
- - 12/3/24 - First Attempt: <a href="{{ site.baseurl }}/Cranberry-Attempts/Attempt-1">Link</a>
+ - 12/3/24 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Cranberry-Attempts/Attempt-1">Link</a>

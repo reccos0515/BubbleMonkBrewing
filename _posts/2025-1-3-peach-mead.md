@@ -33,4 +33,4 @@ bottle-date: 1-19-2025
 Use the Tosna calculator for further nutrient additions
 
 ## Batches
- - 1/3/25 - First Attempt: <a href="{{ site.baseurl }}/Peach-Attempts/Attempt-1">Link</a>
+ - 1/3/25 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Peach-Attempts/Attempt-1">Link</a>

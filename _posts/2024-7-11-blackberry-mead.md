@@ -32,5 +32,5 @@ bottle-date: 8-1-2024
 Loved the mouthfeel, very glad this was my first attempted recipe as it has absolutely set a high bar for me to chase.
 
 ## Attempts
- - 7/11/2024 - First Attempt: <a href="{{ site.baseurl }}/Blackberry-Attempts/Attempt-1">Link</a>
- - 12/21/2024 - Second Attempt: <a href="{{ site.baseurl }}/Blackberry-Attempts/Attempt-2">Link</a>
+ - 7/11/2024 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Blackberry-Attempts/Attempt-1">Link</a>
+ - 12/21/2024 - Second Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Blackberry-Attempts/Attempt-2">Link</a>
