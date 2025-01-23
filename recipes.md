@@ -133,7 +133,8 @@ permalink: /recipes/
 It appears whoever wrote these recipes were not aware of backsweetening as they encourage you to drink them before they ferment long enough to go dry, and all ingredients are added in primary. The way they make these recipes is to start with a Quick Mead (basic 2 lbs honey/1 gallon water mead) and add any additional ingredients listed below in primary.
 
 From the original book:
-> The Honningbrew Mead adapts especially well to longer aging, while the Black-Briar Mead is better early while still fruity, and it's no wonder-the Honningbrew has set out to make an excellent mead, while the Black-Briars are out for profit alone.
+	The Honningbrew Mead adapts especially well to longer aging, while the Black-Briar Mead is better early while still fruity, and it's no wonder-the Honningbrew has set out to make an excellent mead, while the Black-Briars are out for profit alone.
+
 Which is cool lore wise but I feel like might point to a problem with the recipes and again, the lack of stabilizing and backsweetening.
  
  - Juniper Berry Mead
