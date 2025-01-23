@@ -143,8 +143,8 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 1 tbps dried hibiscus flowers
  - Honningbrew Mead
 	 - 1 tbps culinary lavender
- 	 - 1/2 a red apple (slice thinly)
- 	 - 1 inch fresh ginger, peeled and sliced thin
+	 - 1/2 a red apple (slice thinly)
+	 - 1 inch fresh ginger, peeled and sliced thin
  - Black-Briar Mead
 	 - 6 oz crushed blackberries
 	 - 1-2 tbps dried rosehips
