@@ -141,16 +141,16 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 2 tbps crushed juniper berries
 	 - 2 tsp dried yarrow
 	 - 1 tbps dried hibiscus flowers
-- Honningbrew Mead
+ - Honningbrew Mead
 	 - 1 tbps culinary lavender
  	 - 1/2 a red apple (slice thinly)
  	 - 1 inch fresh ginger, peeled and sliced thin
-- Black-Briar Mead
+ - Black-Briar Mead
 	 - 6 oz crushed blackberries
-  	 - 1-2 tbps dried rosehips
-  	 - 1/2 tsp ground cloves (why not whole cloves)
-  	 - 1 cinnamon stick
-  	 - dash of salt
+	 - 1-2 tbps dried rosehips
+	 - 1/2 tsp ground cloves (why not whole cloves)
+	 - 1 cinnamon stick
+	 - dash of salt
  - Nord Mead
 	 - 1/2 tsp ground cardamom
 	 - 1 inch fresh ginger, peels and sliced thin
