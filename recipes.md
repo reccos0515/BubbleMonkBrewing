@@ -125,3 +125,34 @@ permalink: /recipes/
 	 - 1/4 tsp coconut extract
   
   From what I can tell, pineapple sucks to ferment. People ferment a normal primary and then adds the pineapple in after in the secondary phase (note from [Oct 16, 2014](https://www.homebrewtalk.com/threads/is-pineapple-mead-truly-possible.493953/)). If I use pineapple juice I can put it in the primary ([link](https://www.homebrewtalk.com/threads/coconut-water-in-mead.405832/)). Seeing some people say they're getting caramel-notes from coconut water, which should be interesting ([Link](https://www.youtube.com/watch?v=WtLRoUBCPvU)). Maybe should use [coconut extract](https://www.amazon.com/McCormick-Coconut-Extract-Natural-Flavors/dp/B00OCMZ5A2).
+
+****
+
+### Skyrim Mead
+#### Pulled from the official cookbook - [Link](https://www.amazon.com/Elder-Scrolls-Official-Cookbook/dp/1683833988) : [Images](https://imgur.com/gallery/elder-scrolls-cookbook-mead-recipes-2Qilvvu)
+It appears whoever wrote these recipes were not aware of backsweetening as they encourage you to drink them before they ferment long enough to go dry, and all ingredients are added in primary. The way they make these recipes is to start with a Quick Mead (basic 2 lbs honey/1 gallon water mead) and add any additional ingredients listed below in primary.
+
+From the original book:
+> The Honningbrew Mead adapts especially well to longer aging, while the Black-Briar Mead is better early while still fruity, and it's no wonder-the Honningbrew has set out to make an excellent mead, while the Black-Briars are out for profit alone.
+Which is cool lore wise but I feel like might point to a problem with the recipes and again, the lack of stabilizing and backsweetening.
+ 
+ - Juniper Berry Mead
+	 - 2 tbps crushed juniper berries
+	 - 2 tsp dried yarrow
+	 - 1 tbps dried hibiscus flowers
+- Honningbrew Mead
+	 - 1 tbps culinary lavender
+ 	 - 1/2 a red apple (slice thinly)
+ 	 - 1 inch fresh ginger, peeled and sliced thin
+- Black-Briar Mead
+	 - 6 oz crushed blackberries
+  	 - 1-2 tbps dried rosehips
+  	 - 1/2 tsp ground cloves (why not whole cloves)
+  	 - 1 cinnamon stick
+  	 - dash of salt
+ - Nord Mead
+   	 - 1/2 tsp ground cardamom
+   	 - 1 inch fresh ginger, peels and sliced thin
+   	 - 1 tsp whole cloves
+   	 - 1 cinnamon stick
+
