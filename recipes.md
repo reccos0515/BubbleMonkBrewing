@@ -152,8 +152,8 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
   	 - 1 cinnamon stick
   	 - dash of salt
  - Nord Mead
-   	 - 1/2 tsp ground cardamom
-   	 - 1 inch fresh ginger, peels and sliced thin
-   	 - 1 tsp whole cloves
-   	 - 1 cinnamon stick
+	 - 1/2 tsp ground cardamom
+	 - 1 inch fresh ginger, peels and sliced thin
+	 - 1 tsp whole cloves
+	 - 1 cinnamon stick
 
