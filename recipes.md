@@ -135,7 +135,7 @@ It appears whoever wrote these recipes were not aware of backsweetening as they 
 From the original book:
 	The Honningbrew Mead adapts especially well to longer aging, while the Black-Briar Mead is better early while still fruity, and it's no wonder-the Honningbrew has set out to make an excellent mead, while the Black-Briars are out for profit alone.
 
-Which is cool lore wise but I feel like might point to a problem with the recipes and again, the lack of stabilizing and backsweetening.
+Which is cool lore wise but I feel like might point to a problem with the recipes and again, the lack of stabilizing and backsweetening. Also all these recipes are for 1/2 gallon quantities.
  
  - Juniper Berry Mead
 	 - 2 tbps crushed juniper berries
