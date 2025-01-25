@@ -16,3 +16,5 @@ Ended up being 2 lbs flat of frozen fruit and 2.5 lbs of honey. Starting gravity
 **1/22/25** - Checked in, fermentation has started but less active than previous brews, I followed tosna's guidance for how much yeast to add (1/2 a packet) so it makes sense it might be a bit slower to start. Degassed for the first time, going to add nutrient later today.
 
 Added nutrient, seems like even though I left more headspace this time around there's now less overall. Unsure if that will continue to change.
+
+**1/24/25** - Added nutrient/degassed every day so far, after I add nutrient I need to sit and wait to make sure the foam goes away so that's cool. Counting from the start date this was the last nutirent addition and in ~3 or 4 days I should expect to stabilize and spice the mead.
