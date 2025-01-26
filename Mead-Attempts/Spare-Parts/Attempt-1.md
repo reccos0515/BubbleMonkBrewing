@@ -18,3 +18,5 @@ Ended up being 2 lbs flat of frozen fruit and 2.5 lbs of honey. Starting gravity
 Added nutrient, seems like even though I left more headspace this time around there's now less overall. Unsure if that will continue to change.
 
 **1/24/25** - Added nutrient/degassed every day so far, after I add nutrient I need to sit and wait to make sure the foam goes away so that's cool. Counting from the start date this was the last nutirent addition and in ~3 or 4 days I should expect to stabilize and spice the mead.
+
+**1/26/25** - I've been degassing the mead and fermentation is still pretty active, it hasn't cleared at all which i'm a little worried about but it might be because of the degassing.
