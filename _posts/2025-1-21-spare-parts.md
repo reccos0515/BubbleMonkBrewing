@@ -9,7 +9,7 @@ brew-date: 1-21-2025
 bottle-date: TBD
 ---
 
-It's a spare parts brew!
+It's a spare parts brew! The point of the first attempt is to experiment with spicing a mead and I think every subsequent one will also be some form of test brew or getting rid of spare honey.
 
 ## Ingredients
  - 2.5 lbs Wildflower Honey
