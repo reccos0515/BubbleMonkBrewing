@@ -20,3 +20,5 @@ Added nutrient, seems like even though I left more headspace this time around th
 **1/24/25** - Added nutrient/degassed every day so far, after I add nutrient I need to sit and wait to make sure the foam goes away so that's cool. Counting from the start date this was the last nutirent addition and in ~3 or 4 days I should expect to stabilize and spice the mead.
 
 **1/26/25** - I've been degassing the mead and fermentation is still pretty active, it hasn't cleared at all which i'm a little worried about but it might be because of the degassing.
+
+**1/28/25** - Still fermenting but definitely has slowed down, I'm thinking I should stop degassing to try and allow it to clear.
