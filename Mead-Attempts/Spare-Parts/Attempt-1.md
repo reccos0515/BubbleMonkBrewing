@@ -3,7 +3,7 @@ layout: brew
 title: Spare Parts Attempt 1
 yield: 1 gallons
 OG: 1.090
-FG: TBD
+FG: 0.996
 fermenting: false
 brew-date: 1-21-2025
 bottle-date: TBD
@@ -22,3 +22,7 @@ Added nutrient, seems like even though I left more headspace this time around th
 **1/26/25** - I've been degassing the mead and fermentation is still pretty active, it hasn't cleared at all which i'm a little worried about but it might be because of the degassing.
 
 **1/28/25** - Still fermenting but definitely has slowed down, I'm thinking I should stop degassing to try and allow it to clear.
+
+**2/1/25** - Racked the mead and added Campden Tablets, Final Gravity ended up being 0.996 which will be 12.34%
+
+Also as a note, peaches suck for making a clear mead like holy crap. The normal peach mead didn't clear and this isn't clearing either, which means the color and opacity are, drinking wise I don't care about but still for the future I'm going to stay away from peaches.
