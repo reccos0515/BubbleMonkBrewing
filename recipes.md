@@ -74,7 +74,7 @@ permalink: /recipes/
 ### Cyser - [Link](https://blog.mountainroseherbs.com/how-to-make-spiced-cyser-apple-mead)
  Makes 5 Gallons
  - 6 lbs. raw, local honey (roughly 2 quarts)
- - 5 gallons organic apple cider (freshly pressed is best, if available) DO NOT USE CIDER WITH PRESERVATIVES
+ - 5 gallons organic apple cider (freshly pressed is best, if available) DO NOT USE CIDER WITH PRESERVATIVES, [Motts Natural](https://www.hy-vee.com/aisles-online/p/3529/Motts-Natural-100-Apple-Juice) has no preservaitves
  - 2 lbs. organic brown sugar
  - 3 organic cinnamon sticks
  - 2 tsp. organic whole allspice berries
