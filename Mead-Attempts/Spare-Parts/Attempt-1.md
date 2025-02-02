@@ -26,3 +26,5 @@ Added nutrient, seems like even though I left more headspace this time around th
 **2/1/25** - Racked the mead and added Campden Tablets, Final Gravity ended up being 0.996 which will be 12.34%
 
 Also as a note, peaches suck for making a clear mead like holy crap. The normal peach mead didn't clear and this isn't clearing either, which means the color and opacity are weird, drinking wise I don't care but still for the future I'm going to stay away from peaches.
+
+Tomorrow should be perfect for cold crashing, I'll put the mead in my trunk so I'll get around ~8 hours if i start at 9am. 
