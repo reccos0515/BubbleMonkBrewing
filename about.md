@@ -25,6 +25,15 @@ permalink: /about/
 
 ****
 
+### Spicing
+Seems like some people add spices in primary some in secondary, so far i've only tried secondary after backsweetening.
+
+ 1. Add spices to a brew bag, something like [this](https://www.walmart.com/ip/100-200-300-Mesh-Brew-Bag-w-String-Wine-Beer-Home-Brew-Coffee-Filter/205060019)
+ 2. Submerge in the fermenter
+ 3. Taste once per day until you get the desired strength
+
+****
+
 ### Software Resources
  - Tosna Calculator - [Link](https://www.meadmaderight.com/tosna-calculator) - Used for calculating how much yeast nutrient to add and when to add
  - [ABV Calculator](https://www.brewersfriend.com/abv-calculator/) - Used for calculating the ABV after **INITIAL FERMENTATION ONLY**
