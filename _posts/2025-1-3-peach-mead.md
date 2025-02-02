@@ -18,9 +18,13 @@ bottle-date: 1-19-2025
  - 1/4 tsp pectic enzyme
  - 1/2 tsp Fermaid-O Nutrient
  - 1 Gallon Spring water (add in pieces)
- 
+
+#### For After fermentation
  - 1/4 tsp vanilla extract (for use after stabilization)
- - 1 L [Jumex Peach Nectar](http://jumexinternational.com/peach-nectar/) (Backsweetening)
+ - 1 L [Jumex Peach Nectar](http://jumexinternational.com/peach-nectar/)
+ - 2 to 3 cinnamon sticks
+ - 12 to 18 Allspice berries
+ - 1/4 to 1/2 tsp of cardamom
 
 ## Recipe
  1. Sanitize equipment using Star-San
