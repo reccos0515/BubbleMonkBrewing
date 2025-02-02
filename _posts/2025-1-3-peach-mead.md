@@ -35,7 +35,7 @@ bottle-date: 1-19-2025
  7. Top with spring water until there's a reasonable amount of room left for the fermentation (take initial gravity reading)
  8. Seal using a sanitizer filled airlock and set in a cool dark place
  9. After fermentation Stabilize, Backsweeten and add the vanilla extract
- 10. Also spice the mead according the the process in <a href="{{ site.baseurl }}/about.md">Resources</a>
+ 10. Also spice the mead according the the process in <a href="{{ site.baseurl }}/about">Resources</a>
 
 ## Backsweetening
 So I tried something odd to backsweeten this because I wanted to up the peach flavor as much as possible So I'm preserving that process here. 
