@@ -16,7 +16,7 @@ It's a spare parts brew! The point of the first attempt is to experiment with sp
  - 0.75 lbs frozen mixed berries
  - 1.625 lbs frozen peaches
  - 4 tbsp Black tea
- - 3 stick cinnamon
+ - 2 stick cinnamon
  - 4 whole cloves
  - 1/2 tsp cardamom
  - 6 allspice berries
