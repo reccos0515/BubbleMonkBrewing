@@ -22,8 +22,8 @@ bottle-date: 1-19-2025
 #### For After fermentation
  - 1/4 tsp vanilla extract (for use after stabilization)
  - 1 L [Jumex Peach Nectar](http://jumexinternational.com/peach-nectar/)
- - 2 to 3 cinnamon sticks
- - 12 to 18 Allspice berries
+ - 1 to 2 cinnamon sticks
+ - 6 to 10 Allspice berries
  - 1/4 to 1/2 tsp of cardamom
 
 ## Recipe
