@@ -27,4 +27,4 @@ Added nutrient, seems like even though I left more headspace this time around th
 
 Also as a note, peaches suck for making a clear mead like holy crap. The normal peach mead didn't clear and this isn't clearing either, which means the color and opacity are weird, drinking wise I don't care but still for the future I'm going to stay away from peaches.
 
-Tomorrow should be perfect for cold crashing, I'll put the mead in my trunk so I'll get around ~8 hours if i start at 9am. 
+**2/2/25** - Added Potasium Sorbate, will backsweeten tomorrow.
