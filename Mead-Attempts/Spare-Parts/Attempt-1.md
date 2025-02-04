@@ -29,4 +29,4 @@ Also as a note, peaches suck for making a clear mead like holy crap. The normal 
 
 **2/2/25** - Added Potasium Sorbate, will backsweeten tomorrow.
 
-**2/3/25** - Added 1.25 cups of honey/water, crazy low amount compared to what I normally need to add so i'm never doubting Tosna again. Added the spices, I'm hyped as fuck.
+**2/3/25** - Added 1.25 cups of honey/water, crazy low amount compared to what I normally need to add so i'm never doubting Tosna again. Added the spices, I'm hyped as fuck. Since I used less sweetener and the attenuation was 105% this mead has ended up at ~11.4% ABV
