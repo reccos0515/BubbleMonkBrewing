@@ -20,7 +20,7 @@ It's a spare parts brew! The point of the first attempt is to experiment with sp
  - 6 whole cloves
  - 1/2 tsp cardamom
  - 6 allspice berries
- - 1 Packet K1-V1116 yeast
+ - 2.4g K1-V1116 yeast
  - 1 tsp pectic enzyme
  - 1/2 tsp Fermaid-O Nutrient
  - 1 Gallon Filtered tap water (got a new brita!)
