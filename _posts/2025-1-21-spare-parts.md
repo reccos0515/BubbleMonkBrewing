@@ -6,7 +6,7 @@ OG: 1.090
 FG: 0.996
 fermenting: false
 brew-date: 1-21-2025
-bottle-date: TBD
+bottle-date: 2-07-2025
 ---
 
 It's a spare parts brew! The point of the first attempt is to experiment with spicing a mead and I think every subsequent one will also be some form of test brew or getting rid of spare honey.
