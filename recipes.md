@@ -102,9 +102,11 @@ permalink: /recipes/
  1. Add the honey to a very large pot and set it over medium heat. Heat it, stirring occasionally.
  2. Once it starts to bubble, stir slowly and constantly, making sure to scrape down the sides as you go. Control the temperature to keep the foam in check. ~10 minutes
  3. Add water slowly and carefully, up to just above a gallon total volume. (recipe says to add 2 additional cups but there's no point imo)
- 4. Allow the mixture to cool to around 120<sup>0</sup>F. Strain the bochet and pour it into the sterile container you’re going to ferment it in.
+ 4. Allow the mixture to cool to around 120 Deg F. Strain the bochet and pour it into the sterile container you’re going to ferment it in.
  5. Pitch and add yeast to the mixture.
- 6. Lightly grind spices and add to mixture with a brew bag.
+ 6. Lightly grind spices and add to mixture with a brew bag and add brew bag to carboy.
+ 7. Remove the spices after ~3 days.
+ 8. Finish fermenting as normal, rack off the yeast and either age in fermenter or in bottles.
 
 ****
 
