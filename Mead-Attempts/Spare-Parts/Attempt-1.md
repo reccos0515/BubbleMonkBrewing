@@ -6,7 +6,7 @@ OG: 1.090
 FG: 0.996
 fermenting: false
 brew-date: 1-21-2025
-bottle-date: TBD
+bottle-date: 2-07-2025
 ---
 
 **1/21/25** - Starting brew today, after i'm done spicing the peach mead.
@@ -30,3 +30,5 @@ Also as a note, peaches suck for making a clear mead like holy crap. The normal 
 **2/2/25** - Added Potasium Sorbate, will backsweeten tomorrow.
 
 **2/3/25** - Added 1.25 cups of honey/water, crazy low amount compared to what I normally need to add so i'm never doubting Tosna again. Added the spices, I'm hyped as fuck. Since I used less sweetener and the attenuation was 105% this mead has ended up at ~11.4% ABV
+
+**2/7/25** - 5 and 1/2 bottles, and the 1/2 is deffinitely 10% sediment. From tasting the spices are pronounced but not overbearing I think I can push it further or add more spices up front, I should exclude allspice next time and include the whole nutmeg.
