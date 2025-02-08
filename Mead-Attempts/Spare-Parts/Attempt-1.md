@@ -6,7 +6,7 @@ OG: 1.090
 FG: 0.996
 fermenting: false
 brew-date: 1-21-2025
-bottle-date: 2-07-2025
+bottle-date: 7-2-2025
 ---
 
 **1/21/25** - Starting brew today, after i'm done spicing the peach mead.
