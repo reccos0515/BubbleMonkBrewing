@@ -10,7 +10,7 @@ bottle-date: TBD
 ---
 
 ## Ingredients
-(scaled down from 2 gallons)
+(scaled up from 1/2 a gallon)
  - 3 lbs Honey
  - 2 grams K1-V1116 yeast
  - 2.5 grams Go-Ferm
