@@ -8,7 +8,7 @@ fermenting: true
 brew-date: 2-11-2025
 bottle-date: TBD
 ---
-Skyrim brew time! We're starting with Honningbrew off the <a href="{{ site.baseurl }}/about">recipes</a> page because shelby said she wanted to try that one. looking forward to an apple-y/ginger-y experience.
+Skyrim brew time! We're starting with Honningbrew off the <a href="{{ site.baseurl }}/recipes">recipes</a> page because shelby said she wanted to try that one. looking forward to an apple-y/ginger-y experience.
 
 
 ## Ingredients
