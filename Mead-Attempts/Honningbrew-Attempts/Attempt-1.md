@@ -8,3 +8,5 @@ fermenting: true
 brew-date: 2-11-2025
 bottle-date: TBD
 ---
+
+**2/11/25** - Started batch, 1.092 SG about ~1.2 gallons. Really boring mead to be making tbh just a traditional honey water and yeast, should make a good base for the spices tho.
