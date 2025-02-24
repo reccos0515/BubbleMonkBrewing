@@ -38,3 +38,5 @@ On tasting I didn't really get much peach flavor, I've seen someone backsweeten 
 **1/20/25** - Bottled the brew, and seperated out ~1 bottle with 1/2 stick of cinnamon, 6 Allspice berries, and 1/8 tsp of cardamom
 
 **1/21/25** - That was the best bottle I've made so far definitely need to make more like that.
+
+**2/23/25** - Just killed the spiced bottle and holy shit yes, amazing, maybe less sweet next time so the spices and the peach come through more.
