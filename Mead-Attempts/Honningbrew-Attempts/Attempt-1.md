@@ -21,4 +21,4 @@ Gravity is at 1.024, ~9% ABV. So I guess since it's still bubbling I'll just lea
 
 Involved in this was an apple taste test and both me and Shelby agree that Fuji apples had the most apple flavor while being not as sweet as envy and still decently crisp.
 
-Both carboys are full of a half gallon each at this point and spicing, no backsweetening has been done.
+Both carboys contain a half gallon each at this point and infusing with the spices, no backsweetening has been done.
