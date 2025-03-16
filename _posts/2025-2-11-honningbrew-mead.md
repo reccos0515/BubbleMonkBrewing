@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: Honningbrew Mead
+title: Honningbrew/Juniper Berry Mead
 yield: 1 gallons
 OG: 1.092
 FG: 1.000
@@ -8,7 +8,7 @@ fermenting: true
 brew-date: 2-11-2025
 bottle-date: TBD
 ---
-Skyrim brew time! We're starting with Honningbrew off the <a href="{{ site.baseurl }}/recipes">recipes</a> page because shelby said she wanted to try that one. looking forward to an apple-y/ginger-y experience.
+Skyrim brew time! We're starting with Honningbrew/Juniper Berry off the <a href="{{ site.baseurl }}/recipes">recipes</a> page because shelby said she wanted to try honningbrew and both start with a basic honey mead. looking forward to an apple-y/ginger-y experience.
 
 
 ## Ingredients
@@ -19,10 +19,15 @@ Skyrim brew time! We're starting with Honningbrew off the <a href="{{ site.baseu
  - 1.3 grams Fermaid-O
  - 1 Gallon Filtered Tap Water
 
-#### For After fermentation
+#### For Honningbrew After fermentation
  - 2 tablespoons Culinary Lavender
- - 1 Red Apple, thinly sliced
- - 2 inches Fresh Ginger, peeled and cliced
+ - 1/2 Red Apple, thinly sliced
+ - 1 inch Fresh Ginger, peeled and cliced
+
+#### For Juniper Berry After fermentation
+ - 2 tbps crushed juniper berries
+ - 2 tsp dried yarrow
+ - 1 tbps dried hibiscus flowers
 
 ## Recipe
  1. Sanitize equipment using Star-San
