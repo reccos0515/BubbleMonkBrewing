@@ -16,3 +16,9 @@ bottle-date: TBD
 **2/23/25** - This mead just will not stop slowly fermenting, going to take a gravity reading today to see where it's currently at but it's essentially been slowly fermenting for this entire time. This means I feel like I shouldn't stabalize and start secondary.
 
 Gravity is at 1.024, ~9% ABV. So I guess since it's still bubbling I'll just leave it, I'll keep degassing and hope it goes dry. The taste and smell is still harsh and yeast-y so I'm going to take that as a sign that the yeast is alive and well and still fermenting.
+
+**3/16/25** - This mead took way longer to go dry than any other I've made and I have to assume it was the lack of other nutriets in the brew. Fermentation finally stopped and the mead started to clear maybe a couple days ago. Stabilized the mead over the weekend and today I racked it to a new carboy, cleaned/sanitized the original, and then split the mead between the two so that I could make but Honningbrew and Juniper Berry mead at the same time!. Since all the Skyrim meads start out with the same basic mead I might as well make both.
+
+Involved in this was an apple taste test and both me and Shelby agree that Fuji apples had the most apple flavor while being not as sweet as envy and still decently crisp.
+
+Both carboys are full of a half gallon each at this point and spicing, no backsweetening has been done.
