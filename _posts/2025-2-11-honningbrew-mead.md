@@ -22,7 +22,7 @@ Skyrim brew time! We're starting with Honningbrew/Juniper Berry off the <a href=
 #### For Honningbrew After fermentation
  - 2 tablespoons Culinary Lavender
  - 1/2 Red Apple, thinly sliced
- - 1 inch Fresh Ginger, peeled and cliced
+ - 1 inch Fresh Ginger, peeled and sliced
 
 #### For Juniper Berry After fermentation
  - 2 tbps crushed juniper berries
