@@ -3,10 +3,10 @@ layout: brew
 title: Honningbrew/Juniper Berry Mead
 yield: 1 gallons
 OG: 1.092
-FG: 1.000
+FG: 0.996
 fermenting: true
 brew-date: 2-11-2025
-bottle-date: TBD
+bottle-date: 3-23-2025
 ---
 Skyrim brew time! We're starting with Honningbrew/Juniper Berry off the <a href="{{ site.baseurl }}/recipes">recipes</a> page because shelby said she wanted to try honningbrew and both start with a basic honey mead. looking forward to an apple-y/ginger-y experience.
 
