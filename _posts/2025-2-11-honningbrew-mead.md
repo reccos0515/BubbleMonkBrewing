@@ -4,7 +4,7 @@ title: Honningbrew/Juniper Berry Mead
 yield: 1 gallons
 OG: 1.092
 FG: 0.996
-fermenting: true
+fermenting: false
 brew-date: 2-11-2025
 bottle-date: 3-23-2025
 ---
