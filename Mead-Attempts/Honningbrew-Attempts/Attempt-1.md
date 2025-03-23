@@ -1,12 +1,12 @@
 ---
 layout: brew
-title: Honningbrew Mead
+title: Honningbrew/Juniper Berry Mead
 yield: 1 gallons
 OG: 1.092
-FG: 1.000
-fermenting: true
+FG: 0.996
+fermenting: false
 brew-date: 2-11-2025
-bottle-date: TBD
+bottle-date: 3-23-2025
 ---
 
 **2/11/25** - Started batch, 1.092 SG about ~1.2 gallons. Really boring mead to be making tbh just a traditional honey water and yeast, should make a good base for the spices tho.
@@ -22,3 +22,7 @@ Gravity is at 1.024, ~9% ABV. So I guess since it's still bubbling I'll just lea
 Involved in this was an apple taste test and both me and Shelby agree that Fuji apples had the most apple flavor while being not as sweet as envy and still decently crisp.
 
 Both carboys contain a half gallon each at this point and infusing with the spices, no backsweetening has been done.
+
+**3/23/25** - Final Gravity 0.996 on both. Backsweetened and bottled the mead, honestly the Honningbrew didn't need any sweetening but Shelby is as Shelby does so it recieved 1/8th cup honey mixed with 1/8th cup hot water bringing its final ABV to 12.3%. The Juniper Berry needed a bit more so we added 1/2 cup honey mixed with 1/2 cup hot water which brought it down to 11.2% final ABV.
+
+Definitely need to make more Honningbrew from the inital tasting results.
