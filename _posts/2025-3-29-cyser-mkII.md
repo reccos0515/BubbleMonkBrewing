@@ -29,13 +29,14 @@ This is a redemption arc, the last time I attempted a cyser I used local cider a
  3. Boil the apple juice, sugar and brew bag in a stock pot for 10 min
  4. Simmer for 10 min, remove brew bag (official recipe neglects to mention this)
  5. Allow mix to cool to 120 deg F
- 6. Add honey and stir
- 7. Allow to cool to 65 deg F
- 8. Add Fermaid-O to the fermenter, use the Tosna calculator for further nutrient additions.
- 9. Pitch yeast according to the package with the addition of Go-Ferm and add to the fermenter
- 10. Top with apple juice until there's a reasonable amount of room left for the fermentation (take initial gravity reading)
- 11. Seal using a sanitizer filled airlock and set in a cool dark place
- 12. After fermentation Stabilize, Backsweeten the mead according the the process in <a href="{{ site.baseurl }}/about">Resources</a>
+ 6. Add to fermenting vessle.
+ 7. Add honey and stir
+ 8. Allow to cool to 65 deg F
+ 9. Add Fermaid-O to the fermenter, use the Tosna calculator for further nutrient additions.
+ 10. Pitch yeast according to the package with the addition of Go-Ferm and add to the fermenter
+ 11. Top with apple juice until there's a reasonable amount of room left for the fermentation (take initial gravity reading)
+ 12. Seal using a sanitizer filled airlock and set in a cool dark place
+ 13. After fermentation Stabilize, Backsweeten the mead according the the process in <a href="{{ site.baseurl }}/about">Resources</a>
 
 ## Batches
  - 3/29/25 - First(?) Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Cyser-Attempts/Attempt-1">Link</a>
