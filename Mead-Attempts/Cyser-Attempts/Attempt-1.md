@@ -9,4 +9,4 @@ brew-date: 3-29-2025
 bottle-date: TBD
 ---
 
-**3/29/25** - Starting Brew, 
+**3/29/25** - Starting Brew, 1.102 SG
