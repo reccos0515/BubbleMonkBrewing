@@ -2,7 +2,7 @@
 layout: brew
 title: Cyser Mk.II
 yield: 1 gallons
-OG: TBD
+OG: 1.102
 FG: 1.000
 fermenting: true
 brew-date: 3-29-2025
