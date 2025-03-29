@@ -38,4 +38,4 @@ This is a redemption arc, the last time I attempted a cyser I used local cider a
  12. After fermentation Stabilize, Backsweeten the mead according the the process in <a href="{{ site.baseurl }}/about">Resources</a>
 
 ## Batches
- - 3/29/25 - First Attempt(?): <a href="{{ site.baseurl }}/Mead-Attempts/Cyser-Attempts/Attempt-1">Link</a>
+ - 3/29/25 - First(?) Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Cyser-Attempts/Attempt-1">Link</a>
