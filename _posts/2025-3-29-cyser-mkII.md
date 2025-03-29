@@ -27,7 +27,7 @@ This is a redemption arc, the last time I attempted a cyser I used local cider a
  1. Sanitize equipment using Star-San
  2. Add all the spices to brew bag
  3. Boil the apple juice, sugar and brew bag in a stock pot for 10 min
- 4. Remove from head and simmer for 10 min, remove brew bag (official recipe neglects to mention this)
+ 4. Simmer for 10 min, remove brew bag (official recipe neglects to mention this)
  5. Allow mix to cool to 120 deg F
  6. Add honey and stir
  7. Allow to cool to 65 deg F
