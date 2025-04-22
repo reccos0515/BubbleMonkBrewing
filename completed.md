@@ -3,7 +3,7 @@ layout: page
 title: Completed Recipes
 permalink: /completed/
 ---
-#### This page is for recipes I've completed so i can remove them from my backlog.
+#### This page is for recipes I've completed so i can remove them from my <a href="{{ site.baseurl }}/recipes">backlog</a>.
 ****
 
 ### Cyser - [Link](https://blog.mountainroseherbs.com/how-to-make-spiced-cyser-apple-mead)
