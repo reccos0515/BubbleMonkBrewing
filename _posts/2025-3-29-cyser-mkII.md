@@ -12,7 +12,7 @@ This is a redemption arc, the last time I attempted a cyser I used local cider a
 
 ## Ingredients
 (scaled down from 5 gallons)
- - 1 & 1/4 lbs. raw, local honey (roughly 2 quarts)
+ - 1 & 1/4 lbs. raw, local honey
  - 1 gallons organic apple cider (freshly pressed is best, if available) DO NOT USE CIDER WITH PRESERVATIVES, Motts Natural has no preservaitves
  - 1/2 lbs. organic brown sugar
  - 2/3 organic cinnamon sticks
