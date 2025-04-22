@@ -3,7 +3,7 @@ layout: page
 title: Recipes
 permalink: /recipes/
 ---
-#### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones.
+#### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones. Recipes I've attempted are in <a href="{{ site.baseurl }}{{ completed }}">{{ Completed Recipes }}</a>
 ****
 
 ### Blueberry Pancake Mead - [Link](https://acts2815.wordpress.com/2014/02/02/blueberry-pancake-mead/)
@@ -71,23 +71,6 @@ permalink: /recipes/
 
 ****
 
-### Cyser - [Link](https://blog.mountainroseherbs.com/how-to-make-spiced-cyser-apple-mead)
- Makes 5 Gallons
- - 6 lbs. raw, local honey (roughly 2 quarts)
- - 5 gallons organic apple cider (freshly pressed is best, if available) DO NOT USE CIDER WITH PRESERVATIVES, [Motts Natural](https://www.hy-vee.com/aisles-online/p/3529/Motts-Natural-100-Apple-Juice) has no preservaitves
- - 2 lbs. organic brown sugar
- - 3 organic cinnamon sticks
- - 2 tsp. organic whole allspice berries
- - 1 tsp. organic ginger root
- - 1 tsp. organic whole cardamom pods
- - 1 tsp. organic whole cloves
- - 1 organic whole nutmeg
- - 1/2 tsp. organic black peppercorns
- - 1 package white wine yeast, such as Lalvin D47
- - Fermaid O
-
-****
-
 ### Bochet (Black Mead) - [Link](https://www.tastinghistory.com/recipes/bochet?rq=bochet#recipe)
  - 1 pint (675 g) honey
  - 2 cups distilled water
@@ -139,14 +122,6 @@ _"The Honningbrew Mead adapts especially well to longer aging, while the Black-B
 
 Which is cool lore wise but I feel like might point to a problem with the recipes and again, the lack of stabilizing and backsweetening. Also all these recipes are for 1/2 gallon quantities.
  
- - Juniper Berry Mead
-	 - 2 tbps crushed juniper berries
-	 - 2 tsp dried yarrow
-	 - 1 tbps dried hibiscus flowers
- - Honningbrew Mead
-	 - 1 tbps culinary lavender
-	 - 1/2 a red apple (slice thinly)
-	 - 1 inch fresh ginger, peeled and sliced thin
  - Black-Briar Mead
 	 - 6 oz crushed blackberries
 	 - 1-2 tbps dried rosehips
