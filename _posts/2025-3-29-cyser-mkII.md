@@ -8,7 +8,7 @@ fermenting: true
 brew-date: 3-29-2025
 bottle-date: TBD
 ---
-This is a redemption arc, the last time I attempted a cyser I used local cider and did not pay enough attention to the Potasium Sorbate in the ingredients list. Seeing as how that's one of te the exact perservatives I use to stabilizie mead it was doomed to fail. Not anymore i'm just going to use Motts.
+This is a redemption arc, the last time I attempted a cyser I used local cider and did not pay enough attention to the Potasium Sorbate in the ingredients list. Seeing as how that's one of the the exact perservatives I use to stabilizie mead it was doomed to fail. Not anymore i'm just going to use Motts.
 
 ## Ingredients
 (scaled down from 5 gallons)
