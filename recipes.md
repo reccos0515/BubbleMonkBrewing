@@ -170,7 +170,7 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 
   Because you're working with organics rinsing the violets is a good step but freezing them for ~2 weeks would be ideal to propperly kill any bacteria, not 100% required though
 
-So from that and the video I'm estimating this to be the recipe
+So from that and the video this to be the process
  1. Make tea from the violets and distilled water, steep ~30 min or until desired color
  2. Add sugar to fermenting vessle
  3. Add tea to the fermenting vessle minus the leaves
