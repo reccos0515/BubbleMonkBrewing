@@ -43,6 +43,6 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 1/2 a red apple (slice thinly)
 	 - 1 inch fresh ginger, peeled and sliced thin
 
-Honningbrew/Juniper Berry Attempt - <a href="{{ site.baseurl }}/posts/2025-2-11-honningbrew-mead">Link</a>
+Honningbrew/Juniper Berry Attempt - <a href="{{ site.baseurl }}/honningbrew-mead">Link</a>
 
 ****
