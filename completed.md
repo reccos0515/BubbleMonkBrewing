@@ -21,7 +21,7 @@ permalink: /completed/
  - 1 package white wine yeast, such as Lalvin D47
  - Fermaid O
 
-Cyser Attempt - <a href="{{ site.baseurl }}/posts/2025-3-29-cyser-mkII">Link</a>
+Cyser Attempt - <a href="{{ site.baseurl }}/honningbrew-mead">Link</a>
 
 ****
 
