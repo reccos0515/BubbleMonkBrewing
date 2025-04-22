@@ -21,6 +21,8 @@ permalink: /completed/
  - 1 package white wine yeast, such as Lalvin D47
  - Fermaid O
 
+Cyser Attempt - <a href="{{ site.baseurl }}/posts/2025-3-29-cyser-mkII">Link</a>
+
 ****
 
 ### Skyrim Mead
@@ -40,5 +42,7 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 1 tbps culinary lavender
 	 - 1/2 a red apple (slice thinly)
 	 - 1 inch fresh ginger, peeled and sliced thin
+
+Honningbrew/Juniper Berry Attempt - <a href="{{ site.baseurl }}/posts/2025-2-11-honningbrew-mead">Link</a>
 
 ****
