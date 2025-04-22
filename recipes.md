@@ -134,6 +134,8 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 1 tsp whole cloves
 	 - 1 cinnamon stick
 
+Honningbrew/Juniper Berry here --> <a href="{{ site.baseurl }}/completed">Link</a>
+
 ****
 
 ### Violet Wine
