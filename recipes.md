@@ -3,7 +3,7 @@ layout: page
 title: Recipes
 permalink: /recipes/
 ---
-#### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones. Recipes I've attempted are in <a href="{{ site.baseurl }}{{ completed }}">{{ Completed Recipes }}</a>
+#### This page is for my Recipe Backlog. Meads I haven't tried yet that I want to especially the Patrick Rothfuss ones. Recipes I've attempted are in <a href="{{ site.baseurl }}/completed">Completed Recipes</a>
 ****
 
 ### Blueberry Pancake Mead - [Link](https://acts2815.wordpress.com/2014/02/02/blueberry-pancake-mead/)
