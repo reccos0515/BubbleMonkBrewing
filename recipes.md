@@ -168,7 +168,7 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
  - 1 part sugar to 3 parts infused water
  - 1/2 packet of white wine yeast per quart of wine
 
-  Because you're worling with organics rinsing the violets is a good step but freezing them for ~2 weeks would be ideal to propperly kill any bacteria, not 100% required though
+  Because you're working with organics rinsing the violets is a good step but freezing them for ~2 weeks would be ideal to propperly kill any bacteria, not 100% required though
 
 So from that and the video I'm estimating this to be the recipe
  1. Make tea from the violets and distilled water, steep ~30 min or until desired color
