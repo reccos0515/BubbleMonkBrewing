@@ -159,3 +159,22 @@ Which is cool lore wise but I feel like might point to a problem with the recipe
 	 - 1 tsp whole cloves
 	 - 1 cinnamon stick
 
+****
+
+### Violet Wine
+#### As apparently mentioned in Brandon Sanderson's book. I was sent [this tiktok](https://www.tiktok.com/t/ZTj2cVFWa/) and after emailing the creator I was given this recipe
+
+ - 1 part Flowers (by volume non crushed) to Distilled water, use Sweet Violets/Viola Odorata
+ - 1 part sugar to 3 parts infused water
+ - 1/2 packet of white wine yeast per quart of wine
+Because you're worling with organics rinsing the violets is a good step but freezing them for ~2 weeks would be ideal to propperly kill any bacteria, not 100% required though
+
+So from that and the video I'm estimating this to be the recipe
+ 1. Make tea from the violets and distilled water, steep ~30 min or until desired color
+ 2. Add sugar to fermenting vessle
+ 3. Add tea to the fermenting vessle minus the leaves
+ 4. Stir until combined
+ 5. Add yeast and stir gently
+ 6. Seal with airlock and set aside
+
+As always sanitize everything first and shoot for ~1.1 SG if you want room to backsweeten down to 12% ABV like she ends at in the video, or 1.092 if you want to hit 12% off rip.
