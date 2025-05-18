@@ -3,10 +3,10 @@ layout: brew
 title: Cyser Mk.II
 yield: 1 gallons
 OG: 1.102
-FG: 1.000
+FG: 0.994
 fermenting: true
 brew-date: 3-29-2025
-bottle-date: TBD
+bottle-date: 5-18-2025
 ---
 This is a redemption arc, the last time I attempted a cyser I used local cider and did not pay enough attention to the Potasium Sorbate in the ingredients list. Seeing as how that's one of the the exact perservatives I use to stabilizie mead it was doomed to fail. Not anymore i'm just going to use Motts.
 
