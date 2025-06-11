@@ -40,3 +40,4 @@ Skyrim brew time! We're starting with Honningbrew/Juniper Berry off the <a href=
 
 ## Batches
  - 2/11/25 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Honningbrew-Attempts/Attempt-1">Link</a>
+ - 6/1/25 - Second Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Honningbrew-Attempts/Attempt-2">Link</a>
