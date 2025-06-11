@@ -3,7 +3,7 @@ layout: brew
 title: Strawberry
 yield: 1 gallons
 OG: 1.098
-FG: TBD
+FG: 1.000
 fermenting: true
 brew-date: 6-1-2025
 bottle-date: TBD
