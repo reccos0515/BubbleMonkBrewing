@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: Strawberry
+title: Strawberry Mead
 yield: 1 gallons
 OG: 1.098
 FG: 1.000
