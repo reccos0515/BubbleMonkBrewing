@@ -5,7 +5,7 @@ yield: 1 gallons
 OG: 1.098
 FG: 1.000
 fermenting: true
-brew-date: 6-1-2025
+brew-date: 5-25-2025
 bottle-date: TBD
 ---
 Some leftover Strawberries had a bit of mold, cooking them to 160+ degrees farenheight for 20+ min should both release a lot of juice and kill the mold.
@@ -32,4 +32,4 @@ Some leftover Strawberries had a bit of mold, cooking them to 160+ degrees faren
  13. After fermentation Stabilize, Backsweeten the mead according the the process in <a href="{{ site.baseurl }}/about">Resources</a>
 
 ## Batches
- - 6/1/25 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Strawberry/Attempt-1">Link</a>
+ - 5/25/25 - First Attempt: <a href="{{ site.baseurl }}/Mead-Attempts/Strawberry/Attempt-1">Link</a>
