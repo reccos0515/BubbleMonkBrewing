@@ -3,8 +3,8 @@ layout: brew
 title: Strawberry Mead
 yield: 1 gallons
 OG: 1.098
-FG: 1.000
-fermenting: true
+FG: 0.996
+fermenting: false
 brew-date: 5-25-2025
 bottle-date: TBD
 ---
