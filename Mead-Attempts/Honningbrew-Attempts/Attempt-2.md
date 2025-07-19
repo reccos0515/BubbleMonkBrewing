@@ -10,3 +10,5 @@ bottle-date: TBD
 ---
 
 **6/1/25** - This was so good in the half batch that we're making a full batch. Starting with honey/water/yeast again, I did use go-ferm and fermaid-O but there's really just not much happening just like last time. I used 3.4 lbs. of honey, starting gravity 1.096.
+
+**7/19/25** - Well it's definitely finished fermenting, I fed it the nutrients on the schedule and it took just as long as the last one to ferment dry. I'm going to start stabilizing today, finish tomorrow, and then rack it to a new vessle on monday hopefully that will give me a nice clear end product.
