@@ -13,4 +13,6 @@ bottle-date: TBD
 
 **7/19/25** - Well it's definitely finished fermenting, I fed it the nutrients on the schedule and it took just as long as the last one to ferment dry. I'm going to start stabilizing today, finish tomorrow, and then rack it to a new vessle on monday hopefully that will give me a nice clear end product.
 
-**7/23/25** - After stabilization I have added a full apple, 2 in of ginger and 2 tablespoons of cullinary lavendar. The final gravity was 0.994 so ABV 13.4%. 
+**7/23/25** - After stabilization I have added a full apple, 2 in of ginger and 2 tablespoons of cullinary lavendar. The final gravity was 0.994 so ABV 13.4%. **
+
+**8/12/25** - Back sweetend the mead, was just as apple-y as the first time we made it, going to let it continue to sit in the fermenter to maybe clear up.
