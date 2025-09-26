@@ -10,3 +10,5 @@ bottle-date: TBD
 ---
 
 **7/23/25** - Pitting 2 pounds of cherries sucks don't do it. But with that out of the way the starting gravity is 1.102 and it appears to be starting off very active.
+
+**9/25/25** - Racked to another vessle, tried to get rid of a lot of the sediment and fruit but couldn't keep it all out, going to let it clarify (forget about it) for a while.
