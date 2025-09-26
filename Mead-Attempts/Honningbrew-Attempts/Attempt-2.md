@@ -15,4 +15,6 @@ bottle-date: TBD
 
 **7/23/25** - After stabilization I have added a full apple, 2 in of ginger and 2 tablespoons of cullinary lavendar. The final gravity was 0.994 so ABV 13.4%. **
 
-**8/12/25** - Back sweetend the mead, was just as apple-y as the first time we made it, going to let it continue to sit in the fermenter to maybe clear up.
+**8/12/25** - Back sweetend the mead, was just as apple-y as the first time we made it, going to let it continue to sit in the fermenter to maybe clear up. I used 3/4c honey and 1/2c water so that brings it up to %12.4% ABV
+
+**9/25/25** - Kinda forgot about it/was way too busy but I've bottled it now and it was honestly the clearest mead I've ever made so a win is a win. 6 full bottles and it was delicious tasting it already.
