@@ -20,3 +20,5 @@ Sweetened the rest with 1 3/4 cups of honey + water, realizing I may not have st
 The ABV of the removed portion is 11.92% so i'll call that 12%
 
 The ABV of what's left is 12.1% if my (admittedly estimates) are correct.
+
+**2/16/26** - Bottled the mead, got ~4 solid bottles and 1/2 scrap
