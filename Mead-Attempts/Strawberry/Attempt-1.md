@@ -6,7 +6,7 @@ OG: 1.098
 FG: 0.996
 fermenting: false
 brew-date: 5-25-2025
-bottle-date: TBD
+bottle-date: 7-11-2025
 ---
 
 **5/25/25** - Starting gravity 1.098
