@@ -4,9 +4,9 @@ title: Juniper Berry
 yield: 1.2 gallons
 OG: 1.094
 FG: 0.996
-fermenting: true
+fermenting: false
 brew-date: 2-22-2026
-bottle-date: TBD
+bottle-date: 6-16-2026
 ---
 
 **2/22/26** - Starting another Juniper Berry attempt! Starts again with a basic mead just honey, water and yeast. SG sits around 1.094 and I used 3.3 lbs of honey
