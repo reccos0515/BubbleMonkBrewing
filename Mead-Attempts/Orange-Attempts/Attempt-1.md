@@ -16,4 +16,4 @@ bottle-date: TBD
 **7/26/26** - Racked the mead to an empty vessel, it's down to a 1.008 gravity but i can tell it's still off gassing from the bubble lock. Probably safe to let it clear for a couple weeks at least.
 
 
-**9/21/26** - Racked to another empty vessel, it's down further to a 0.998 which I will assume is the final gravity. Holy shit that puts it at 16% ABV flat.
+**9/21/26** - Stabilized the mead over the last week. Racked to another empty vessel, it's down further to a 0.998 which I will assume is the final gravity. Holy crap that puts it at 16% ABV flat.
